@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14612" started-at="2018-10-27T15:47:27Z" finished-at="2018-10-27T15:47:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14612" started-at="2018-10-27T15:47:27Z" finished-at="2018-10-27T15:47:41Z">
+      <class name="com.test.AutomationPractice">
+        <test-method status="PASS" signature="configureLog4j()[pri:0, instance:com.test.AutomationPractice@185d8b6]" name="configureLog4j" is-config="true" duration-ms="151" started-at="2018-10-27T15:47:27Z" finished-at="2018-10-27T15:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureLog4j -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.test.AutomationPractice@185d8b6]" name="testCase1" duration-ms="14384" started-at="2018-10-27T15:47:27Z" finished-at="2018-10-27T15:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- com.test.AutomationPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

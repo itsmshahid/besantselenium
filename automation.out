@@ -1,0 +1,9 @@
+2018-10-27 18:47:47 INFO  TestBase:25 - shahid
+2018-10-27 18:48:50 INFO  TestBase:27 - shahid
+2018-10-27 18:49:54 INFO  AutomationPractice:27 - shahid
+2018-10-27 21:11:48 INFO  HomePage:44 - Clicked on Singin button in Home page
+2018-10-27 21:11:48 INFO  AutomationPractice:28 - shahid
+2018-10-27 21:11:48 INFO  AutomationPractice:29 - i am using log 4j logger
+2018-10-27 21:17:41 INFO  HomePage:44 - Clicked on Singin button in Home page
+2018-10-27 21:17:41 INFO  TestBase:28 - shahid
+2018-10-27 21:17:41 INFO  TestBase:29 - i am using log 4j logger
